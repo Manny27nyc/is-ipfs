@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "cids": "^1.0.0",
-    "iso-url": "~0.4.7",
+    "iso-url": "~1.2.1",
     "mafmt": "^8.0.0",
     "multiaddr": "^8.0.0",
     "multibase": "^3.0.0",
