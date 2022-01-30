@@ -45,7 +45,7 @@
     "iso-url": "~0.4.7",
     "mafmt": "^8.0.0",
     "multiaddr": "^8.0.0",
-    "multibase": "^3.0.0",
+    "multibase": "^4.0.6",
     "multihashes": "^3.0.1",
     "uint8arrays": "^1.1.0"
   },
